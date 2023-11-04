@@ -1,0 +1,17 @@
+p{
+    color: rgb(252, 123, 3);
+}
+
+
+
+table#nimaz{
+    color: brown;
+}
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+    padding: 10px;} 
+    .page {
+    border: 1px solid #665544;
+    background-color: #efefef; 
+    padding: inherit;} 
